@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Ontology development", "Knowledge Graph Creation", "Large Language Model App Development", "LlamaIndex App development", "LangChain App development", "Wordpress Development"],
+    strings: ["Ontology development", "Knowledge Graph Creation", "Academics", "Large Language Model App Development", "Retrieval Augmented Generation", "LlamaIndex App development", "LangChain App development", "Wordpress Development"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
